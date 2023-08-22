@@ -1,0 +1,19 @@
+{
+    "locale": {
+        "en": "English",
+        "ru": "Russian"
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About"
+    },
+    "home": {
+        "header": "Shopai is a session-less concept store for electronics, clothing and accessories. Enablement is what we do so let's start shooping."
+    },
+    "product": {
+        "searchTitle": "Search Anythings you want"
+    },
+    "footer": {
+        "buyMe": "Find this project useful? You can buy me a ☕ or a 🍺"
+    }
+}
